@@ -25,5 +25,8 @@
         <module name="Liliya_Yalovchenko_CV_Java" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Liliya_Yalovchenko_CV_Java" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

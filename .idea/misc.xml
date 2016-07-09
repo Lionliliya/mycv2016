@@ -34,6 +34,7 @@
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="appengine-java" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$" />
   </component>
   <component name="IdProvider" IDEtalkID="E454B37239929C27777C4EB590728721" />
   <component name="MavenProjectsManager">
