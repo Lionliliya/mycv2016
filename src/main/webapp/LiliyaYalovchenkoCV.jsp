@@ -9,70 +9,143 @@
     <meta name="author" content="Liliya Yalovchenko">
     <title>Liliya Yalovchenko CV</title>
 
-    <!-- Bootstrap core CSS
-    <link rel="shortcut icon" href="/favicon.ico"/>-->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap core CSS-->
+    <link rel="shortcut icon" href="/favicon-1.ico"/>
+    <link href="/css/bootstrap.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="/css/cv.css" rel="stylesheet">
+    <link href="/css/menu.css" rel="stylesheet">
 
 </head>
-<body>
-    <div class="container">
-        <div class="header">
-            <h3 class="text-muted">Java Developer</h3>
-        </div>
+<body style="background-color: teal">
 
-        <div class="jumbotron">
-            <h1>Liliya Yalovchenko</h1>
+    <div class="container" style="background-color: #00b3b3">
+      <div class="row">
+          <div class="col-sm-12 blog-main">
+                <div class="row">
+                    <div class="blog-header">
+                        <div class="col-md-12">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <img src="images/girl-me.png" width="128" alt="Girl">
+                                </div>
+                                <div class="col-md-8">
+                                    <h3 class="blog-title" style="font-family: Aver Bold; color: #ecf0f1;">Liliya Yalovchenko</h3>
+                                    <p class="text-left" style="font-family: Aver; font-style: italic; font-size: 14px; color: #ecf0f1;">Java is not only my hobby, it is my life</p>
+                                </div>
+                            </div>
 
-            <div class="row">
-                <div class="col-md-4"><img src="/images/objective.png" width="128" height="128"></div>
-                <div class="col-md-8">
-                    <p class="lead">OBJECTIVE</p>
-                    My initial goal is become an <em>effective developer</em>>, thereby not only <em>earn a living</em> well,
-                    but also to take a significant part in the <em>prosperity of the company</em>. I aim to <em>be an
-                    example</em> for newcomers and juniors in one year after joining the company, to help them
-                    and <em>inspire</em>.
+                        </div>
+
+                    </div>
                 </div>
-            </div>
+              <section class="col-md-12 ss-style-triangles">
+                    <h2 style="font-family: Aver; font-weight: bold; color: #ecf0f1"><img src="images/objective.png" alt="Objective" width="32"> Objective <img src="images/objective.png" alt="Objective" width="32"></h2>
+                  <p class="text-right" style="font-family: Aver; font-size: 14px;">To become an <strong>effective developer</strong>, thereby not only earn a living well,
+                      but also to take a significant part in the <strong>prosperity of the company</strong>.</p>
 
-        </div>
+                  <p class="text-right" style="font-family: Aver; font-size: 14px;">I aim to <strong>be an example</strong> for newcomers and juniors in one year after joining the company,
+                      to help them and <strong>inspire</strong>.
+                  </p>
+              </section>
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="blog-skills text-center" style="padding-top: 50px; font-family: Aver; font-weight: bold; color: #ecf0f1;">SKILLS</h1>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-sm-6 col-md-4">
+                            <div class="thumbnail skills">
+                                <img src="images/java2.png" alt="Java" width="32">
+                                <div class="caption skill-block">
+                                    <h6 class="text-center">Programming language</h6>
+                                    <p class="text-center">Java</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-4">
+                            <div class="thumbnail skills">
+                                <img src="images/html3.png" alt="Technologies" width="32">
+                                <div class="caption skill-block">
+                                    <h6 class="text-center">Technologies</h6>
+                                    <p class="text-center">OOP, MySQL, Java Web basics: Servlets/JSP/HTML, CSS, Unit testing, refactoring </p>
 
-        <div class="row marketing">
-            <div class="col-lg-6">
-                <h4>Subheading</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-4">
+                            <div class="thumbnail skills">
+                                <img src="images/settings.png" alt="Related technologies" width="32">
+                                <div class="caption skill-block">
+                                    <h6 class="text-center">Related technologies</h6>
+                                    <p class="text-center">XML, JSON, HTTP, basic level of JavaScript knowledge</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6 col-md-4">
+                            <div class="thumbnail skills">
+                                <img src="images/frameworks.png" alt="Frameworks and libraries" width="32">
+                                <div class="caption skill-block">
+                                    <h6 class="text-center">Frameworks and libraries</h6>
+                                    <p class="text-center">Spring (IoC, MVC, AOP), Hibernate, JPA, JUnit</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-4">
+                            <div class="thumbnail skills">
+                                <img src="images/devtools.png" alt="Development tools" width="32">
+                                <div class="caption skill-block">
+                                    <h6 class="text-center">Development Tools</h6>
+                                    <p class="text-center">IntelliJ IDEA, GitHub, Apache Maven, JIRA from Atlassian</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-4">
+                            <div class="thumbnail skills">
+                                <img src="images/languages.png" alt="Languages" width="32">
+                                <div class="caption skill-block">
+                                    <h6 class="text-center">Languages</h6>
+                                    <p class="text-center">English - advanced</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
-                <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+              <section class="col-md-12 ss-style-triangles">
+                  <h2 style="font-family: Aver; font-weight: bold; color: #ecf0f1">
+                      <img src="images/objective.png" alt="Objective" width="32">
+                      My projects
+                      <img src="images/objective.png" alt="Objective" width="32">
+                  </h2>
 
-                <h4>Subheading</h4>
+              </section>
+              <div class="row">
+                  <div class="col-md-12" style="height: 200px;">
 
-                <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet
-                    fermentum.</p>
+                  </div>
+              </div>
 
-                <h4>Subheading</h4>
+          </div>
+         <!-- /.blog-main -->
 
-                <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
-            </div>
 
-            <div class="col-lg-6">
-                <h4>Subheading</h4>
+        </div><!-- /.row -->
 
-                <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+    </div><!-- /.container -->
 
-                <h4>Subheading</h4>
 
-                <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet
-                    fermentum.</p>
 
-                <h4>Subheading</h4>
-
-                <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
-            </div>
-        </div>
-
-        <div class="footer">
-            <p>&copy; Company 2014</p>
-        </div>
+    <div class="blog-footer">
+        <p>Built with <a href="http://getbootstrap.com">Bootstrap</a> by <a href="#">Liliya Yalovchenko</a>.</p>
+        <p>
+            <a href="#">Back to top</a>
+        </p>
+    </div>
     </div> <!-- /container -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/docs.min.js"></script>
 </body>
 </html>
