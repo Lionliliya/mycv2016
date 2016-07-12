@@ -9651,10 +9651,10 @@ module.exports = function() {
 			},
 			onClick: null,
 			defaultColor: 'rgba(0,0,0,0.1)',
-			defaultFontColor: '#666',
-			defaultFontFamily: "'Helvetica Neue', 'Helvetica', 'Arial', sans-serif",
-			defaultFontSize: 12,
-			defaultFontStyle: 'normal',
+			defaultFontColor: '#f9f9f9',
+			defaultFontFamily: "'Aver', 'Helvetica', 'Arial', sans-serif",
+			defaultFontSize: 14,
+			defaultFontStyle: 'bold',
 			showLines: true,
 
 			// Element defaults defined in element extensions

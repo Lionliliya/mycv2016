@@ -63,9 +63,11 @@
               </section>
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 class="blog-skills text-center" style="padding-top: 50px; font-family: Aver; font-weight: bold; color: #ecf0f1;">SKILLS</h1>
+                        <h1 class="blog-skills text-center" style="padding-top: 50px; padding-bottom: 40px; font-family: Aver; font-size: 40px; font-weight: bold; color: #ebb000;">SKILLS</h1>
                     </div>
                 </div>
+              <div class="col-lg-12" style="border: thin solid #ebb000; padding-top: 15px; margin-bottom: 15px;">
+
                     <div class="row">
                         <div class="col-sm-6 col-md-4">
                             <div class="thumbnail skills">
@@ -125,18 +127,19 @@
                             </div>
                         </div>
                     </div>
+                  </div>
               <div class="row">
-                  <div id="container" style="width: 75%;">
+                  <div id="container" style="width: 100%;">
                       <canvas id="canvas"></canvas>
                   </div>
               </div>
               <script>
                   var barChartData = {
-                  labels: ["Java SE", "OOP", "Java EE",  "Servlets/JSP/HTM/CSS/JavaScript", "MySQL", "Maven", "Spring, Hibernate", "XML/JSON", "Unix Shell", "Unit testing"],
+                  labels: ["Java SE", "OOP", "Java EE",  "Servlets/JSP/HTM/CSS", "MySQL", "Maven", "Spring, Hibernate", "XML/JSON", "Unix Shell", "Unit testing", "JavaScript"],
                   datasets: [{
                   label: 'Level of skills',
-                  backgroundColor: "rgba(220,220,220,0.5)",
-                  data: [80, 70, 60, 50, 60, 50, 40, 30, 40, 30],
+                  backgroundColor: "#ebb000",
+                  data: [92, 70, 60, 50, 60, 50, 40, 30, 40, 30, 10]
                   }]
 
                   };
@@ -152,17 +155,20 @@
                               elements: {
                                   rectangle: {
                                       borderWidth: 2,
-                                      borderColor: 'rgb(0, 255, 0)',
+                                      //borderColor: 'rgb(0, 255, 0)',
                                       borderSkipped: 'bottom'
                                   }
                               },
                               responsive: true,
                               legend: {
+                                  display: false,
                                   position: 'top'
                               },
                               title: {
-                                  display: true,
+                                  display: false,
                                   text: 'Technical skills'
+
+
                               }
                           }
                       });
@@ -198,6 +204,8 @@
 
     <div class="blog-footer">
         <p>Built with <a href="http://getbootstrap.com">Bootstrap</a> by <a href="#">Liliya Yalovchenko</a>.</p>
+
+        <div>Icons made by <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
         <p>
             <a href="#">Back to top</a>
         </p>

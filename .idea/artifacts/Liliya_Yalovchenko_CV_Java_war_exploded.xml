@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="Liliya_Yalovchenko_CV_Java:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/Liliya_Yalovchenko_CV_Java_war_exploded</output-path>
+    <output-path>$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -14,6 +14,9 @@
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.7" />
           <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.2" />
         </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="Liliya_Yalovchenko_CV_Java/web/Web" />
     </root>
