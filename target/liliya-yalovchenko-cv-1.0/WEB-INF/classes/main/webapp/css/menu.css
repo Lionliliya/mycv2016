@@ -193,7 +193,9 @@ h6, .h6 {
 
 section {
     position: relative;
-    padding: 4em ;
+    padding: 20px 20px 60px;
+
+    margin-top: 15px;
     background: teal;
     color: #fff;
     text-align: center;
@@ -206,7 +208,7 @@ section::after {
     pointer-events: none;
 }
 
-.ss-style-triangles::before,
+
 .ss-style-triangles::after {
     left: 50%;
     width: 100px;
