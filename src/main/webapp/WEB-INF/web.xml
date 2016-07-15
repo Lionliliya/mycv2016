@@ -6,7 +6,7 @@
            version="3.0">
     <servlet>
         <servlet-name>CV</servlet-name>
-        <servlet-class>main.java.liliyayalovchenko.CV</servlet-class>
+        <servlet-class>liliyayalovchenko.CV</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>CV</servlet-name>

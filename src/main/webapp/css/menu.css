@@ -29,6 +29,35 @@ body {
     font-style: italic;
 }
 
+@font-face {
+    font-family: Minion Pro Bold Cond;
+    src: url(fonts/Minion%20Pro%20Bold%20Cond.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url(fonts/OpenSans-Regular.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: OpenSans-Semibold;
+    src: url(fonts/OpenSans-Semibold.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: OpenSans-Italic;
+    src: url(fonts/OpenSans-Italic.ttf);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: OpenSans-Light;
+    src: url(fonts/OpenSans-Light.ttf);
+    font-style: normal;
+}
 
 h1, .h1,
 h2, .h2,

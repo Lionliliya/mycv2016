@@ -1,4 +1,4 @@
-package main.java.liliyayalovchenko;
+package liliyayalovchenko;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

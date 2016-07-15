@@ -9652,7 +9652,7 @@ module.exports = function() {
 			onClick: null,
 			defaultColor: 'rgba(0,0,0,0.1)',
 			defaultFontColor: '#f9f9f9',
-			defaultFontFamily: "'Aver', 'Helvetica', 'Arial', sans-serif",
+			defaultFontFamily: "OpenSans-Light, 'Helvetica', 'Arial', sans-serif",
 			defaultFontSize: 14,
 			defaultFontStyle: 'bold',
 			showLines: true,
