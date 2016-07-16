@@ -2,71 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f1e5dda-2ab1-4abf-b6cf-4216d4014834" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/acebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/body-code-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/body-code.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/body.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/bubbles-128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/calculator (1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/calculator64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/html.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/html1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/html2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/java.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/java1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/objective.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/summary.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/java/liliyayalovchenko/CV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/LiliyaYalovchenkoCV.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/WEB-INF/appengine-web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/WEB-INF/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/css/cv.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/css/fonts/Aver Bold Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/css/fonts/Aver Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/css/fonts/Aver Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/css/fonts/Aver.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/css/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/favicon-1.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/acebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/body-code-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/body-code.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/body.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/bubbles-128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/devtools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/frameworks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/girl(1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/girl-me.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/github.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/gmail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/html.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/html1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/html2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/html3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/java.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/java1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/java2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/languages.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/linkedIn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/objective.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/projects.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/settings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/images/summary.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/js/Chart.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/liliya-yalovchenko-cv-1.0/WEB-INF/classes/main/webapp/js/docs.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/images/devtools.png" afterPath="$PROJECT_DIR$/src/main/webapp/images/devtools.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/images/frameworks.png" afterPath="$PROJECT_DIR$/src/main/webapp/images/frameworks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/images/html3.png" afterPath="$PROJECT_DIR$/src/main/webapp/images/html3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/images/java2.png" afterPath="$PROJECT_DIR$/src/main/webapp/images/java2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/images/languages.png" afterPath="$PROJECT_DIR$/src/main/webapp/images/languages.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/images/settings.png" afterPath="$PROJECT_DIR$/src/main/webapp/images/settings.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/LiliyaYalovchenkoCV.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/LiliyaYalovchenkoCV.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Liliya_Yalovchenko_CV_Java.iml" afterPath="$PROJECT_DIR$/Liliya_Yalovchenko_CV_Java.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css" afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/css/menu.css" afterPath="$PROJECT_DIR$/src/main/webapp/css/menu.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Liliya_Yalovchenko_CV_Java.iws" />
@@ -189,8 +124,8 @@
       <file leaf-file-name="LiliyaYalovchenkoCV.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/LiliyaYalovchenkoCV.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.8304498" vertical-offset="0" max-vertical-offset="5220">
-              <caret line="123" column="92" selection-start-line="123" selection-start-column="92" selection-end-line="123" selection-end-column="92" />
+            <state vertical-scroll-proportion="0.5415225" vertical-offset="1541" max-vertical-offset="5220">
+              <caret line="103" column="94" selection-start-line="103" selection-start-column="94" selection-end-line="103" selection-end-column="94" />
               <folding />
             </state>
           </provider>
@@ -985,12 +920,19 @@
       <workItem from="1468308472358" duration="6647000" />
       <workItem from="1468337176652" duration="3673000" />
       <workItem from="1468392750128" duration="28000" />
-      <workItem from="1468614796276" duration="12233000" />
+      <workItem from="1468614796276" duration="12331000" />
     </task>
+    <task id="LOCAL-00001" summary="before deploying">
+      <created>1468628555901</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1468628555901</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75415000" />
+    <option name="totallyTimeSpent" value="75513000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1014,7 +956,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="-4" width="1307" height="772" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1031,7 +973,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6404321" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56790125" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22759715" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22759715" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1063,6 +1005,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="before deploying" />
+    <option name="LAST_COMMIT_MESSAGE" value="before deploying" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1493,8 +1437,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/LiliyaYalovchenkoCV.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.8304498" vertical-offset="0" max-vertical-offset="5220">
-          <caret line="123" column="92" selection-start-line="123" selection-start-column="92" selection-end-line="123" selection-end-column="92" />
+        <state vertical-scroll-proportion="0.5415225" vertical-offset="1541" max-vertical-offset="5220">
+          <caret line="103" column="94" selection-start-line="103" selection-start-column="94" selection-end-line="103" selection-end-column="94" />
           <folding />
         </state>
       </provider>
