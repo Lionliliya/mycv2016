@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f1e5dda-2ab1-4abf-b6cf-4216d4014834" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/LiliyaYalovchenkoCV.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/LiliyaYalovchenkoCV.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/appengine-web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/appengine-web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Liliya_Yalovchenko_CV_Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -121,11 +122,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LiliyaYalovchenkoCV.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LiliyaYalovchenkoCV.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/LiliyaYalovchenkoCV.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.70069206" vertical-offset="513" max-vertical-offset="5238">
+            <state vertical-scroll-proportion="-15.0" vertical-offset="513" max-vertical-offset="5238">
               <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appengine-web.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/appengine-web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08737864" vertical-offset="0" max-vertical-offset="618">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -143,7 +154,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/logback.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/appengine-web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/cv.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/liliyayalovchenko/CV.java" />
@@ -154,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/css/menu.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/LiliyaYalovchenkoCV.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/appengine-web.xml" />
       </list>
     </option>
   </component>
@@ -894,7 +905,7 @@
       <workItem from="1468308472358" duration="6647000" />
       <workItem from="1468337176652" duration="3673000" />
       <workItem from="1468392750128" duration="28000" />
-      <workItem from="1468614796276" duration="13768000" />
+      <workItem from="1468614796276" duration="14463000" />
     </task>
     <task id="LOCAL-00001" summary="before deploying">
       <created>1468628555901</created>
@@ -906,7 +917,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76950000" />
+    <option name="totallyTimeSpent" value="77645000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1317,14 +1328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/appengine-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23300971" vertical-offset="0" max-vertical-offset="618">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7281553" vertical-offset="0" max-vertical-offset="618">
@@ -1411,8 +1414,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/LiliyaYalovchenkoCV.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70069206" vertical-offset="513" max-vertical-offset="5238">
+        <state vertical-scroll-proportion="-15.0" vertical-offset="513" max-vertical-offset="5238">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/appengine-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08737864" vertical-offset="0" max-vertical-offset="618">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
           <folding />
         </state>
       </provider>
