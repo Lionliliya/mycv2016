@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f1e5dda-2ab1-4abf-b6cf-4216d4014834" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/appengine-web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/appengine-web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Liliya_Yalovchenko_CV_Java.iws" />
@@ -905,7 +904,7 @@
       <workItem from="1468308472358" duration="6647000" />
       <workItem from="1468337176652" duration="3673000" />
       <workItem from="1468392750128" duration="28000" />
-      <workItem from="1468614796276" duration="15114000" />
+      <workItem from="1468614796276" duration="15176000" />
     </task>
     <task id="LOCAL-00001" summary="before deploying">
       <created>1468628555901</created>
@@ -917,7 +916,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78296000" />
+    <option name="totallyTimeSpent" value="78358000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
