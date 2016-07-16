@@ -42,8 +42,8 @@
                             </div>
                             <div class="col-md-4 sidebar-module" style="padding: 22px 0;">
                                 <ol class="list-unstyled">
-                                    <li class="text-right"><a href="https://goo.gl/CLuX7X">GitHub</a><img src="images/github.png" width="32" alt="GitHub"></li>
-                                    <li class="text-right"><a href="https://goo.gl/Knw8dX">LinkedIn</a><img src="images/linkedIn.png" width="32" alt="LinkedIn"></li>
+                                    <li class="text-right"><a href="https://goo.gl/CLuX7X" target="_blank">GitHub</a><img src="images/github.png" width="32" alt="GitHub"></li>
+                                    <li class="text-right"><a href="https://goo.gl/Knw8dX" target="_blank">LinkedIn</a><img src="images/linkedIn.png" width="32" alt="LinkedIn"></li>
                                     <li class="text-right"><a href="mailto:liliyayalovchenko@gmail.com">liliyayalovchenko@gmail.com <img src="images/gmail.png" width="32" alt="Gmail"></a></li>
                                 </ol>
                             </div>
@@ -141,7 +141,7 @@
             </div>
             <div class="row">
 
-                <div class="col-md-8" style="margin: auto; float:none;">
+                <div class="col-md-10" style="margin: auto; float:none;">
                     <canvas id="canvas"></canvas>
                 </div>
             </div>
@@ -198,9 +198,10 @@
                             <img align="middle" src="images/projects.png" alt="Projects" width="64">
                         </div>
                     </div>
-                    <p class="text-center" style="font-family: 'Minion Pro'; font-size: 16px;">
-                        These not commercial projects were developed by me during more than year while I was learning Java, Front-end and related technologies.
-                        One of these is team project that was developed in group with my colleges at the end of Java Core part at GoIt courses.
+                    <p class="text-center" style="font-family: OpenSans-Light; font-size: 16px;">
+                        These not commercial projects were developed by me during more than year of learning Java,
+                        Front-end and related technologies. One of these is a team's project that was developed in a
+                        group with my  	colleagues at the end of Java Core part at the GoIt courses.
                     </p>
                 </section>
             </div>
@@ -241,10 +242,10 @@
                         <img class="media-object" src="images/calculator-3.png" alt="Matrix calculator">
                     </a>
                     <div class="media-body">
-                        <h4 class="media-heading">Matrix calculator</h4>
+                        <h4 class="media-heading">Matrices calculator</h4>
                         <h6>Project mission</h6>
                         <p class="text-justify">
-                            Matrix calculator is aimed to solve the following problems: add, multiply, and subtract matrices
+                            Matrices calculator is aimed to solve the following problems: add, multiply, and subtract matrices
                             and multiply matrix by a number.
                         </p>
                         <p class="text-justify">
