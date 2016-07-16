@@ -136,9 +136,17 @@ h6, .h6 {
 .blog-title {
     margin-top: 30px;
     margin-bottom: 0;
-
+    font-family: "Minion Pro", serif;
+    color: #ecf0f1;
     font-size: 40px;
     font-weight: normal;
+}
+
+.blog-quotation {
+    font-family: OpenSans-Light, serif;
+    font-style: italic;
+    font-size: 18px;
+    color: #ecf0f1;
 }
 
 .blog-skills {
@@ -146,7 +154,29 @@ h6, .h6 {
     margin-bottom: 0;
     font-size: 25px;
     font-weight: normal;
+
 }
+
+.col-md-12 h1 {
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-family: "Minion Pro", serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #ebb000;
+}
+
+.col-md-12 h2 {
+    font-family: "Minion Pro", serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: #ebb000;
+    padding: 10px 0;
+    margin-bottom: 0;
+}
+
+.col-md-11 h2
+
 .blog-description {
     font-size: 20px;
     color: #999;
@@ -173,8 +203,8 @@ h6, .h6 {
 
 /* Sidebar modules for boxing content */
 .sidebar-module {
-    padding: 15px;
-    margin: 0 -15px 15px;
+
+
 }
 .sidebar-module-inset {
     padding: 15px;
@@ -258,14 +288,19 @@ section::after {
 }
 
 
+
+
 /*
  * Footer
  */
 
 .blog-footer {
     padding: 40px 0;
-    color: #999;
+    color: #444444;
     text-align: center;
     background-color: #f9f9f9;
     border-top: 1px solid #e5e5e5;
+    font-family: OpenSans-Regular, serif;
+    font-size: 12px;
+    
 }
