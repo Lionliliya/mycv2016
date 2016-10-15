@@ -10,9 +10,12 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>CV</servlet-name>
-        <url-pattern>/liliyaYalovchenkoCV</url-pattern>
+        <url-pattern>/my-works</url-pattern>
     </servlet-mapping>
+
+
     <welcome-file-list>
-        <welcome-file>LiliyaYalovchenkoCV.jsp</welcome-file>
+        <welcome-file>index.html</welcome-file>
     </welcome-file-list>
+
 </web-app>

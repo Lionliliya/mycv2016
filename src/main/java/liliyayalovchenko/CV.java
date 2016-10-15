@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.Arrays;
 
-@WebServlet(name = "CV", urlPatterns = "{/liliyaYalovchenkoCV}")
+@WebServlet(name = "CV", urlPatterns = "{/my-works}")
 public class CV extends HttpServlet {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(CV.class);
@@ -23,9 +23,8 @@ public class CV extends HttpServlet {
         resp.setContentType("text/html");
         req.setCharacterEncoding("UTF-8");
 
-        resp.setContentType("text/html");
-        resp.setCharacterEncoding("UTF-8");
-        RequestDispatcher dispatcher = getServletContext().getRequestDispatcher("/LiliyaYalovchenkoCV.jsp");
+        
+        RequestDispatcher dispatcher = getServletContext().getRequestDispatcher("/my-works.html");
         try {
             dispatcher.forward(req, resp);
         } catch (ServletException e) {
